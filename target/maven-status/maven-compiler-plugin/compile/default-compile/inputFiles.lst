@@ -1,0 +1,12 @@
+C:\Users\Jeremy\spotitube\src\main\java\nl\han\jeremydalm\datasource\util\DatabaseProperties.java
+C:\Users\Jeremy\spotitube\src\main\java\nl\han\jeremydalm\resource\HealthCheckResource.java
+C:\Users\Jeremy\spotitube\src\main\java\nl\han\jeremydalm\service\CORSFilter.java
+C:\Users\Jeremy\spotitube\src\main\java\nl\han\jeremydalm\service\dto\LoginRequestDTO.java
+C:\Users\Jeremy\spotitube\src\main\java\nl\han\jeremydalm\service\dto\LoginResponseDTO.java
+C:\Users\Jeremy\spotitube\src\main\java\nl\han\jeremydalm\resource\LoginResource.java
+C:\Users\Jeremy\spotitube\src\main\java\nl\han\jeremydalm\datasource\LoginDAO.java
+C:\Users\Jeremy\spotitube\src\main\java\nl\han\jeremydalm\service\InvalidTokenException.java
+C:\Users\Jeremy\spotitube\src\main\java\nl\han\jeremydalm\service\TokenService.java
+C:\Users\Jeremy\spotitube\src\main\java\nl\han\jeremydalm\datasource\InvalidLoginException.java
+C:\Users\Jeremy\spotitube\src\main\java\nl\han\jeremydalm\datasource\DataMapper.java
+C:\Users\Jeremy\spotitube\src\main\java\nl\han\jeremydalm\resource\SpotitubeApp.java
